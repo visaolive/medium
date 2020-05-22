@@ -1,3 +1,5 @@
+// see original reference from Twilio Blog: https://www.twilio.com/blog/2018/07/accessing-salesforce-crm-data-within-twilio-studio.html
+
 const got = require('got');
 const jwt = require('jsonwebtoken');
 const FormData = require('form-data');
